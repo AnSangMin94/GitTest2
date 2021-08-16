@@ -1,3 +1,4 @@
+#로또맨~기본
 import os
 import json
 import requests
