@@ -31,6 +31,9 @@ class ChromeBrowserController():
 
     def findElement_By_ClassName(self, className):
         return self.ChromeDriver.find_element("class name", className)
+        
+    def mult(self):
+        return 5
 
 class Lotto():
     def __init__(self):
